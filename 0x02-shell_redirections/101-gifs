@@ -1,2 +1,1 @@
-#!/bin/bash
-find . -type f -name "*.git" -print "%f/n" | rev | cut -c 5- | rev |sort -f
+VimCrypt~03!ÿZ¾CçÍèŒeÁ$%µ42´˜™öyT×ˆ\€ä×¢ŠÛ~mg'L©gdÿšJH¶…	X›†ûDöÁ™éÓĞy/¦@­¿´ğarÁ&ƒ„.m±v¯~N2¸	aB‹$0l#BÂÉ¦Á„±h¾X&Ddıöß	ô
